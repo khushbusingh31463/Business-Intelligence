@@ -4,7 +4,7 @@
 4. BI Reporting: Crafted data-driven visualizations using both powerbi and tableau
 
 Time-Based Analysis for Crashes: Visualizing crash trends over different times of the day, week, and year to identify peak accident periods.
-Accident Reports:
+Accident Reports: 
 Pedestrians Involved in Accidents: Detailed fatality analysis involving pedestrians.
 Top 10 Contributing Factors: Identifying the most common factors leading to crashes.
 Top 5 Areas with Most Crashes: Highlighting the areas with the highest crash frequencies.
