@@ -3,6 +3,8 @@
 3. Data Integration: Using Talend to load the data into target tables (ETL). Additionally, we connected tableau to our relational database to enable real time querying of the integrated data.
 4. BI Reporting: Crafted data-driven visualizations using both powerbi and tableau
 
+   Insights 
+
 - **Time-Based Analysis for Crashes**: Visualizing crash trends over different times of the day, week, and year to identify peak accident periods.
 
 - **Accident Reports: Pedestrians Involved in Accidents**: Detailed fatality analysis involving pedestrians.
