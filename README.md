@@ -1,7 +1,7 @@
 1. Data Profiling: Using Alteryx, I conducted data profiling to understand the data's structure and quality, identifying issues like missing values, duplicates, and inconsistent date formats. Documenting these inconsistencies was essential for maintaining data governance and ensuring high data quality.
 2. Dimensional Model: To effectively organize, query and visualize the data ensuring high performance and data quality for impactful analysis did using ER studio. 
 3. Data Integration: Using Talend to load the data into target tables (ETL). Additionally, we connected tableau to our relational database to enable real time querying of the integrated data.
-4.BI Reporting: Crafted data-driven visualizations using both powerbi and tableau
+4. BI Reporting: Crafted data-driven visualizations using both powerbi and tableau
 
 Time-Based Analysis for Crashes: Visualizing crash trends over different times of the day, week, and year to identify peak accident periods.
 Accident Reports:
