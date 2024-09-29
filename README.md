@@ -1,23 +1,43 @@
-1. Data Profiling: Using Alteryx, I conducted data profiling to understand the data's structure and quality, identifying issues like missing values, duplicates, and inconsistent date formats. Documenting these inconsistencies was essential for maintaining data governance and ensuring high data quality.
-2. Dimensional Model: To effectively organize, query and visualize the data ensuring high performance and data quality for impactful analysis did using ER studio. 
-3. Data Integration: Using Talend to load the data into target tables (ETL). Additionally, we connected tableau to our relational database to enable real time querying of the integrated data.
-4. BI Reporting: Crafted data-driven visualizations using both powerbi and tableau
+# Motor Collision Analysis
 
-   Insights 
+## Introduction
 
-- **Time-Based Analysis for Crashes**: Visualizing crash trends over different times of the day, week, and year to identify peak accident periods.
+The **Motor Collision Analysis** project aims to analyze crash data across multiple cities, identifying trends and patterns to enhance traffic safety insights. The project utilizes advanced BI tools for data profiling, integration, and visualization to provide a detailed analysis of crash incidents, contributing factors, and high-risk areas.
 
-- **Accident Reports: Pedestrians Involved in Accidents**: Detailed fatality analysis involving pedestrians.
+## Key Features
 
-- **Top 10 Contributing Factors**: Identifying the most common factors leading to crashes.
+- **Data Profiling**: Conducted data profiling using **Alteryx** to assess data quality by identifying issues like missing values, duplicates, and inconsistent date formats. Documented inconsistencies to ensure robust data governance.
+  
+- **Dimensional Modeling**: Utilized **ER Studio** to create a dimensional model that ensured high performance in querying and visualizing the crash data for impactful analysis.
 
-- **Top 5 Areas with Most Crashes**: Highlighting the areas with the highest crash frequencies.
+- **Data Integration**: Leveraged **Talend** for ETL processes, loading data into target tables, and connected **Tableau** to the relational database for real-time querying of integrated data.
 
-- **Top 5 Areas with Most Fatalities and Injuries**: Focusing on regions with severe outcomes.
+- **BI Reporting**: Developed comprehensive, data-driven visualizations using **Power BI** and **Tableau** to offer actionable insights and support decision-making.
 
-- **Top 5 Vehicles for Most Crashes**: Analyzing vehicle types most frequently involved in crashes.
+## Insights
 
-City-Specific Dashboards:
-New York
-Austin
-Chicago
+- **Time-Based Analysis for Crashes**: Visualized crash trends across various times (day, week, year) to identify peak accident periods.
+  
+- **Pedestrian Accident Reports**: Detailed analysis of fatalities involving pedestrians.
+
+- **Top 10 Contributing Factors**: Identified the most common factors leading to crashes.
+
+- **Top 5 Areas with Most Crashes**: Highlighted regions with the highest crash frequencies.
+
+- **Top 5 Areas with Most Fatalities and Injuries**: Focused on areas with the most severe outcomes.
+
+- **Top 5 Vehicles in Crashes**: Analyzed the types of vehicles most frequently involved in collisions.
+
+- **City-Specific Dashboards**: Developed dashboards for **New York**, **Austin**, and **Chicago** to showcase city-specific crash data insights.
+
+## Technologies Used
+
+- **Data Profiling**: Alteryx
+- **Dimensional Modeling**: ER Studio
+- **ETL and Data Integration**: Talend
+- **BI Reporting**: Power BI and Tableau
+
+## Project Outcomes
+
+- Provided key insights into high-risk areas, contributing factors, and pedestrian safety.
+- Enhanced traffic safety analysis, supporting data-driven interventions to reduce accidents and improve urban transportation safety.
