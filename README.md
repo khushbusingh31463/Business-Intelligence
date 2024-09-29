@@ -1,5 +1,3 @@
-# Motor Collision Analysis
-
 ## Introduction
 
 The **Motor Collision Analysis** project aims to analyze crash data across multiple cities, identifying trends and patterns to enhance traffic safety insights. The project utilizes advanced BI tools for data profiling, integration, and visualization to provide a detailed analysis of crash incidents, contributing factors, and high-risk areas.
